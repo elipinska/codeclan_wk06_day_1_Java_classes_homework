@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WaterBottle.iml" filepath="$PROJECT_DIR$/.idea/modules/WaterBottle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WaterBottle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WaterBottle_main.iml" group="WaterBottle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WaterBottle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WaterBottle_test.iml" group="WaterBottle" />
+    </modules>
+  </component>
+</project>
